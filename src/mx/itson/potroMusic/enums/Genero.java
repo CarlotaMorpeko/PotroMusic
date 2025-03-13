@@ -12,10 +12,9 @@ public enum Genero {
     
     JPOP,
     JROCK,
-    DANCE,
+    JAZZPOP,
     SALSA,
     BANDA,
     ELECTROSWING,
     CLASSIC,
-    OTRO
 }
