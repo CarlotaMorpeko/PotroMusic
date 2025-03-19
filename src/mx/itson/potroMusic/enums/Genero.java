@@ -17,4 +17,5 @@ public enum Genero {
     BANDA,
     ELECTROSWING,
     CLASSIC,
+    OTROS,
 }
